@@ -1,0 +1,14 @@
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\bin\Debug\Game Inventory Application.exe.config
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\bin\Debug\Game Inventory Application.exe
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\bin\Debug\Game Inventory Application.pdb
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game Inventory Application.csprojAssemblyReference.cache
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game_Inventory_Application.Form1.resources
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game_Inventory_Application.Properties.Resources.resources
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game Inventory Application.csproj.GenerateResource.cache
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game Inventory Application.csproj.CoreCompileInputs.cache
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game Inventory Application.exe
+c:\users\danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game Inventory Application.pdb
+C:\Users\Danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game_Inventory_Application.Form2.resources
+C:\Users\Danie\documents\visual studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game_Inventory_Application.Form3.resources
+C:\Users\Danie\Documents\Visual Studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game_Inventory_Application.Form4.resources
+C:\Users\Danie\Documents\Visual Studio 2017\Projects\Game Inventory Application\Game Inventory Application\obj\Debug\Game_Inventory_Application.Form5.resources
